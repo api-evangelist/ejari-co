@@ -9,6 +9,17 @@ description: >-
   Khalid Almunif, the company operates across 17+ Saudi cities and is building toward a
   full-service, Sharia-compliant real-estate super app. Ejari is backed by 500 Global and
   won the 2024 KPMG Global Tech Innovator competition.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
